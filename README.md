@@ -2,6 +2,12 @@
 This project aims to develop a self-driving car system using a neural network built entirely from scratch, without relying on any external libraries. The neural network is trained and fine-tuned to recognize and respond to various driving scenarios. Additionally, a real-time visualization of the neural network's operations is provided using Canvas, offering insights into its decision-making process.
 
 ## Demo:
+Click Here: <a href="https://zaineli.github.io/Self-Driving-Car/" alt="Link">
+
+![Alt text](1.png)
+![Alt text](2.png)
+<video src="Untitled%20design.mp4" controls title="Title"></video>
+
 
 ## Features:
 ### 1. Neural Network from Scratch: 
